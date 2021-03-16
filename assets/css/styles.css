@@ -1,17 +1,7 @@
 /*------------------------------------
 
-    Theme Name  : NEO
-    Theme URI   : http://demo.afracode.com/neo
-    Description : NEO - Personal portfolio HTML Template
-    Author      : Afracode
-    Author URI  : http://afracode.com
-    Version     : 1.0
-
-------------------------------------*/
-
-/*------------------------------------
-
     // TABLE OF CONTENT //
+    Base Colors
     Basic
     Typography
     Bootstrap Reset
@@ -56,6 +46,17 @@
     Demo Options
 
 ------------------------------------*/
+
+/*------------------------------------
+    Base Colors
+------------------------------------*/
+
+:root {
+    --primary: #e90041;
+    --primary-1: #ce083d;
+    --base-0: #171b22;
+    --base-1: #fff;
+}
 
 /*------------------------------------
     Basic
